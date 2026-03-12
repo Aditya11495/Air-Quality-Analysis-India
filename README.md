@@ -98,9 +98,7 @@ Air-Quality-Analysis-India
 
 ## Dashboard Preview
 
-(Add screenshot of Power BI dashboard here)
-
----
+(Add screenshot of Power BI dashboard here0
 
 ## Key Insights
 
