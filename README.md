@@ -9,7 +9,7 @@ The analysis was performed using **Python for data cleaning and preprocessing** 
 
 The dataset contains air pollution measurements across multiple Indian cities.
 
-Key variables include:
+# Key variables include:
 
 * City
 * Date
