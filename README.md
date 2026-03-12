@@ -5,8 +5,6 @@ This project analyzes India's air quality dataset to understand pollution trends
 
 The analysis was performed using **Python for data cleaning and preprocessing** and **Power BI for interactive dashboard visualization**.
 
----
-
 # Dataset
 
 The dataset contains air pollution measurements across multiple Indian cities.
