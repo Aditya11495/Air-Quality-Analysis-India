@@ -92,8 +92,6 @@ Air-Quality-Analysis-India
 └── README.md
 ```
 
----
-
 ## Dashboard Preview
 
 (Add screenshot of Power BI dashboard here0
