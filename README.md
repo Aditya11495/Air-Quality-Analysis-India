@@ -102,7 +102,6 @@ Air-Quality-Analysis-India
 * PM2.5 and PM10 contribute significantly to poor air quality.
 * AQI levels fluctuate across seasons and cities.
 
----
 
 ## Author
 
